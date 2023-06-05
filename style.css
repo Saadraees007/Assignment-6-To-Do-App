@@ -1,0 +1,42 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.to-doapp {
+    text-align: center;
+    margin-top: 100px;
+    color: #313136;
+  }
+  
+  input {
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  .delete-button {
+    color: rgb(255, 0, 0);
+    cursor: pointer;
+  }
+.butn{
+    background-color: rgb(163, 161, 161);
+    color: rgb(7, 7, 7);
+    border: none;
+    font-weight: bolder;
+    border-radius: 5px;
+    height: 39px;
+}  
